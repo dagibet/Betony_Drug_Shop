@@ -1,0 +1,56 @@
+c:\users\dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\bin\Debug\Betony_Drug_Shop.exe.config
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\bin\Debug\Betony_Drug_Shop.exe
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\bin\Debug\Betony_Drug_Shop.pdb
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.csprojResolveAssemblyReference.cache
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Login.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Properties.Resources.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.csproj.GenerateResource.Cache
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.exe
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.pdb
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\bin\Debug\BetonyDrugShop.mdf
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\bin\Debug\BetonyDrugShop_log.ldf
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.MDIParent1.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Add_New_User.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Unit.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Add_Product_Name.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Dealer_Info.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Purchase_Master.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Sales.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Print_Bill.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Update_Product.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Purchase_Report.resources
+C:\Users\Dagim\Documents\Visual Studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Sales_Report.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.BinCardReport.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.PurchaseReportPrint.resources
+C:\Users\Dagim\documents\visual studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.MDIParent2.resources
+C:\Users\Dagim\Documents\Visual Studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.SaleReportPrint.resources
+C:\Users\Dagim\Documents\Visual Studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Stock_Status_report.resources
+C:\Users\Dagim\Documents\Visual Studio 2013\Projects\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.ChangePassword.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\bin\Debug\Betony_Drug_Shop.exe.config
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.exe
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.pdb
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\bin\Debug\BetonyDrugShop.mdf
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\bin\Debug\BetonyDrugShop_log.ldf
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\bin\Debug\Betony_Drug_Shop.exe
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\bin\Debug\Betony_Drug_Shop.pdb
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.csprojResolveAssemblyReference.cache
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Add_New_User.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Add_Product_Name.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.BinCardReport.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.ChangePassword.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Dealer_Info.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Login.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.MDIParent1.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.MDIParent2.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Print_Bill.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Properties.Resources.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.PurchaseReportPrint.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Purchase_Master.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Purchase_Report.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.SaleReportPrint.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Sales.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Sales_Report.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Stock_Status_report.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Unit.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.Update_Product.resources
+C:\Users\Dagim\Music\Betony_Drug_Shop\Betony_Drug_Shop\obj\Debug\Betony_Drug_Shop.csproj.GenerateResource.Cache
